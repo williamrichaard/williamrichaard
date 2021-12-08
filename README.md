@@ -4,7 +4,7 @@
   
   I am William Richard working as **Test Automation Developer** @**[Compass UOL](https://compassouol.com/)** based in São Luís Brazil. I'm passionate about making the web accessible to everyone and also an advocate for building open-source projects.
   
-  I am an allround web developer. I am a junior programmer with good knowledge of **front-end techniques**. I love structure and order and I also stand for quality. I love spending time on fixing little details and optimizing web apps. Also I like working in a team, you'll learn faster and much more.
+  I am an allround web developer. I am a programmer with good knowledge of **front-end techniques**. I love structure and order and I also stand for quality. I love spending time on fixing little details and optimizing web apps. Also I like working in a team, you'll learn faster and much more.
 
   ## 📫 How to reach me
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/williamrichaard/)
