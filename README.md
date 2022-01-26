@@ -2,7 +2,7 @@
   
   [![Visits Badge](https://badges.pufler.dev/visits/williamrichaard/williamrichaard)](https://badges.pufler.dev/visits/williamrichaard/williamrichaard)
   
-  I am William Richard working as **Test Automation Developer** @**[Compass UOL](https://compassouol.com/)** based in São Luís Brazil. I'm passionate about making the web accessible to everyone and also an advocate for building open-source projects.
+  I am William Richard working as **Quality Assurance Analyst** @**[Zup Innovation](https://www.zup.com.br/)** based in São Luís Brazil. I'm passionate about making the web accessible to everyone and also an advocate for building open-source projects.
   
   I am an allround web developer. I am a programmer with good knowledge of **front-end techniques**. I love structure and order and I also stand for quality. I love spending time on fixing little details and optimizing web apps. Also I like working in a team, you'll learn faster and much more.
 
